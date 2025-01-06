@@ -51,6 +51,26 @@ Ask questions about your documents in the text input field
 - View page previews
 ## Screenshots
 - Starting the app using streamlit run.py
+
 ![](images/1.png)
 
+- Now "Chat with PDF" app is opened
+  
+![](images/2.png)
+
+- Here we uploaded multiple pdf files successfully.
+  
+![](images/3.png)
+
+- Successfully providing the results of the query based on the uploaded PDF file.
+  
+![](images/4.png)
+
+- Showing the matching segment
+
+![](images/5.png)
+
+- Highlighting the matching part in origional PDF file
+
+![](images/6.png)
 
