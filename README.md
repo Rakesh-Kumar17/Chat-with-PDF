@@ -54,23 +54,23 @@ Ask questions about your documents in the text input field
 
 ![](images/1.png)
 
-- Now "Chat with PDF" app is opened
+## Now "Chat with PDF" app is opened
   
 ![](images/2.png)
 
-- Here we uploaded multiple pdf files successfully.
+## Here we uploaded multiple pdf files successfully.
   
 ![](images/3.png)
 
-- Successfully providing the results of the query based on the uploaded PDF file.
+## Successfully providing the results of the query based on the uploaded PDF file.
   
 ![](images/4.png)
 
-- Showing the matching segment
+## Showing the matching segment
 
 ![](images/5.png)
 
-- Highlighting the matching part in origional PDF file
+## Highlighting the matching part in origional PDF file
 
 ![](images/6.png)
 
