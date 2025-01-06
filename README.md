@@ -26,14 +26,13 @@ A Streamlit application that enables conversational interaction with PDF documen
    ```bash
    GOOGLE_API_KEY=your_api_key_here
 ## Required Packages
--streamlit
--PyPDF2
--langchain
--google-generativeai
--python-dotenv
--faiss-cpu
--PyMuPDF
--Usage
+- streamlit
+- PyPDF2
+- langchain
+- google-generativeai
+- python-dotenv
+- faiss-cpu
+- PyMuPDF
 
 ## Start the application:
 
