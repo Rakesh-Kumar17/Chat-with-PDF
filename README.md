@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chat with PDF Application
 This application allows users to upload a PDF, convert its content into embeddings, and interact with it via a question-answering interface.
 
@@ -12,4 +12,4 @@ This application allows users to upload a PDF, convert its content into embeddin
 2. Install dependencies:
 =======
 # Chat-with-PDF
->>>>>>> 02eee2a4ed33ce14f3747ed4093c94931106334f
+
