@@ -3,16 +3,16 @@
 A Streamlit application that enables conversational interaction with PDF documents using Google's Gemini AI. The app highlights relevant sections in the PDF that match the AI's responses.
 
 ## Features
-PDF document upload and processing
-Natural language querying of PDF content
-Auto-highlighting of relevant text segments
-Interactive PDF preview
-Downloadable highlighted PDFs
-Multi-PDF support
+- PDF document upload and processing
+- Natural language querying of PDF content
+- Auto-highlighting of relevant text segments
+- Interactive PDF preview
+- Downloadable highlighted PDFs
+- Multi-PDF support
 
 ## Prerequisites
-Python 3.8+
-Google Cloud API key
+-Python 3.8+
+-Google Cloud API key
 ## Installation
 1. Clone the repository
    ```bash
@@ -26,23 +26,23 @@ Google Cloud API key
    ```bash
    GOOGLE_API_KEY=your_api_key_here
 ## Required Packages
-streamlit
-PyPDF2
-langchain
-google-generativeai
-python-dotenv
-faiss-cpu
-PyMuPDF
-Usage
+-streamlit
+-PyPDF2
+-langchain
+-google-generativeai
+-python-dotenv
+-faiss-cpu
+-PyMuPDF
+-Usage
 
 ## Start the application:
 
 streamlit run app.py
 
 ## Upload PDFs:
-Click "Upload your PDF Files" in sidebar
-Select one or more PDFs
-Click "Submit & Process"
+-Click "Upload your PDF Files" in sidebar
+-Select one or more PDFs
+-Click "Submit & Process"
 
 Ask questions about your documents in the text input field
 ## View results:
