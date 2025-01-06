@@ -17,15 +17,13 @@ Google Cloud API key
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/pdf-chat-assistant.git
-cd pdf-chat-assistant
-
-2. Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-4. Install dependencies
+   ```bash
+   cd pdf-chat-assistant
+2. Install dependencies
+   ```bash
    pip install -r requirements.txt
-5. Create .env file and add your Google API key
+3. Create .env file and add your Google API key
+   ```bash
    GOOGLE_API_KEY=your_api_key_here
 ## Required Packages
 streamlit
