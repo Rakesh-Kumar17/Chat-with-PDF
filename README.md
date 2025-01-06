@@ -49,5 +49,7 @@ Ask questions about your documents in the text input field
 - See highlighted relevant sections
 - Download highlighted PDF
 - View page previews
+## Screenshots
+![Starting the app using streamlit run.py](images/1.png)
 
 
