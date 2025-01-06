@@ -13,18 +13,18 @@ Multi-PDF support
 ## Prerequisites
 Python 3.8+
 Google Cloud API key
-
 ## Installation
 1. Clone the repository
+   ```bash
    git clone https://github.com/yourusername/pdf-chat-assistant.git
 cd pdf-chat-assistant
-2. Create and activate virtual environment
+3. Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-3. Install dependencies
+4. Install dependencies
    pip install -r requirements.txt
-4. Create .env file and add your Google API key
+5. Create .env file and add your Google API key
    GOOGLE_API_KEY=your_api_key_here
 ## Required Packages
 streamlit
