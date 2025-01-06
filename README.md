@@ -39,15 +39,15 @@ A Streamlit application that enables conversational interaction with PDF documen
 streamlit run app.py
 
 ## Upload PDFs:
--Click "Upload your PDF Files" in sidebar
--Select one or more PDFs
--Click "Submit & Process"
+- Click "Upload your PDF Files" in sidebar
+- Select one or more PDFs
+- Click "Submit & Process"
 
 Ask questions about your documents in the text input field
 ## View results:
-Read AI response
-See highlighted relevant sections
-Download highlighted PDF
-View page previews
+- Read AI response
+- See highlighted relevant sections
+- Download highlighted PDF
+- View page previews
 
 
