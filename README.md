@@ -18,7 +18,8 @@ Google Cloud API key
    ```bash
    git clone https://github.com/yourusername/pdf-chat-assistant.git
 cd pdf-chat-assistant
-3. Create and activate virtual environment
+
+2. Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
